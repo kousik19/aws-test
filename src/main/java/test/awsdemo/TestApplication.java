@@ -15,7 +15,7 @@ public class TestApplication {
 	
 	@RequestMapping("/test")
 	public String test() {
-		return "Working";
+		return "Working New Endpoint";
 	}
 
 }
