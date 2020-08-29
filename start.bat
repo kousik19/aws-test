@@ -1,1 +1,1 @@
-java -jar ./target/aws-demo-0.0.1-SNAPSHOT.jar
+start java -jar ./target/aws-demo-0.0.1-SNAPSHOT.jar
