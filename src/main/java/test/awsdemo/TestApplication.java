@@ -15,7 +15,7 @@ public class TestApplication {
 	
 	@RequestMapping("/test")
 	public String test() {
-		return "Working New Endpoint Nwo from service";
+		return "Working New Endpoint Nwo from service just test";
 	}
 
 }
